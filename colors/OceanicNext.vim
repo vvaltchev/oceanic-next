@@ -13,13 +13,13 @@
   let g:colors_name="OceanicNext"
 
 " Colors {{{
-  let s:base00 = ['#1b2b34', '235']
+  let s:base00 = ['#061820', '255'] " background, was #1b2b34, 235
   let s:base01 = ['#343d46', '237']
   let s:base02 = ['#4f5b66', '240']
-  let s:base03 = ['#65737e', '243']
+  let s:base03 = ['#919da7', '243'] " comments, was #65737e
   let s:base04 = ['#a7adba', '145']
   let s:base05 = ['#c0c5ce', '251']
-  let s:base06 = ['#cdd3de', '252']
+  let s:base06 = ['#dde1ea', '252'] " variables, was #cdd3de
   let s:base07 = ['#d8dee9', '253']
   let s:red    = ['#ec5f67', '203']
   let s:orange = ['#f99157', '209']
